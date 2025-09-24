@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Django<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: I love Cats</p>
+<p align="left">📚 I'm currently learning <br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: I love Cats</p>
 
 ###
 
