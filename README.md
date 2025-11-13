@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on n8n<br>🌱 I’m currently learning n8n<br>⚡ Fun fact: Stay hard
+🔭 I’m currently working on Web Development<br>🌱 I’m currently learning React<br>⚡ Fun fact: Stay hard
 
 
 ## 🌐 Socials:
