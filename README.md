@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>🌱 I’m currently learning React<br>⚡ Fun fact: Stay hard
+🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Laravel<br>⚡ Fun fact: Stay hard
 
 
 ## 🌐 Socials:
